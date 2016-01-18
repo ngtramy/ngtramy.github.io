@@ -403,5 +403,5 @@ function init(){
 
 //*********************** Back to frontpage *****************************//
 $('h1').click(function(){
-     window.location.href = 'home.html';
+     window.location.href = 'index.html';
 });
