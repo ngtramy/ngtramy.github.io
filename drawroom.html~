@@ -40,13 +40,13 @@
         </div> 
 		<div id="dropbox">
 			<img draggable="true" id="dragme" src="imgs/duckicon.png">
-			<img draggable="true" id="dragme2" src="imgs/pusheen.png">
+			<img draggable="true" id="dragme2" src="imgs/pusheen.ico">
 		</div>
     </section> 
         
     <div id="tools"> <!-- tools -->
         <ul>
-            <li><button class="pure-button" id="brush"><img src="imgs/pen.png">
+            <li><button class="pure-button" id="brush"><img src="imgs/pen.ico">
                 </button></li>
             <li><button class="pure-button" id="line"><img src="imgs/line.png"></button></li>
             <li><button class="pure-button" id="rectangle"><img src="imgs/rectangle.png"></button></li>
